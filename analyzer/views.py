@@ -902,7 +902,8 @@ Job description:
                 "prompt": prompt,
                 "stream": False,
                 "options": {
-                    "temperature": 0.2
+                    "temperature": 0.2,
+                    "num_predict": 200
                 }
             },
             timeout=120
