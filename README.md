@@ -2,6 +2,9 @@
 
 An AI-powered resume analysis and job matching web application built with Django. The system extracts text from PDF resumes using OCR, analyzes resume sections and skills, compares resumes with job descriptions, calculates similarity, and provides AI-powered resume rewriting using a locally running Llama 3.2 model through Ollama.
 
+## Project Preview
+
+![AI Resume Analyzer Screenshot](screenshot.png)
 ## Features
 
 - 📄 PDF Resume Upload
