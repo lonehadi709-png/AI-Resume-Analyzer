@@ -74,9 +74,21 @@ The application follows this workflow:
 
 - SQLite
 
+## Setup and Run
+
+1. Clone the repository.
+2. Create and activate a Python virtual environment.
+3. Install the required dependencies:
+   `pip install -r requirements.txt`
+4. Make sure Tesseract OCR and Poppler are installed.
+5. Install and run Ollama with the Llama 3.2 model.
+6. Run the Django development server:
+   `python manage.py runserver`
+7. Open the application in your browser.
+
 ## Project Structure
 
-```text
+text
 AI - resume analyzer/
 │
 ├── analyzer/
