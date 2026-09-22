@@ -89,9 +89,8 @@ The application follows this workflow:
 
 ## Project Structure
 
-text
+```text
 AI - resume analyzer/
-│
 ├── analyzer/
 │   ├── migrations/
 │   ├── __init__.py
