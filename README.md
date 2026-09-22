@@ -5,6 +5,7 @@ An AI-powered resume analysis and job matching web application built with Django
 ## Project Preview
 
 ![AI Resume Analyzer Screenshot](screenshot.png)
+
 ## Features
 
 - 📄 PDF Resume Upload
